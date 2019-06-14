@@ -4,6 +4,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(to right, rgb(219, 6, 44), rgb(10, 104, 187));
+  font-family: 'Courier New', Courier, monospace;
 }
 
 button {
