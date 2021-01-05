@@ -10,7 +10,7 @@
     "react-scripts": "3.0.1",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.11.1",
-    "axios": ">=0.18.1"
+    "axios": ">=0.21.1"
   },
   "scripts": {
     "start": "react-scripts start",
